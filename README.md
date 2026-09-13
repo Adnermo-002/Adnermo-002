@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://adnermo-002.github.io/">
+  <a href="https://windose.adnermo.online/">
     <img src="./setup.png" alt="Windose 20 Setup — 点击进入" width="800">
   </a>
 </p>
